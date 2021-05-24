@@ -20,6 +20,17 @@ IDE can be downloaded for free at [https://arduino.cc](https://www.arduino.cc/en
 
 ![circuit](https://i.postimg.cc/wTLS3NQK/circuit.png)
 
+## How it works
+
+- The HC-SR04 Ultrasonic (US) sensor is a 4 pin module, that measures the distance (between itself and an obstacle) by multiplying the time an ultrasonic wave, sent by the transmitter, takes to reach the reciever.
+
+**Distance = Speed x Time**
+
+- Based on the measured distance, one of the light-emitting diodes (LED) will light up, visually representing the distance (BLUE meaning far, YELLOW meaning close, ORANGE meaning closer and you can guess what RED does).
+
+- Following the visual repres
+
+
 
 
 
