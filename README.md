@@ -13,8 +13,12 @@ IDE can be downloaded for free at [https://arduino.cc](https://www.arduino.cc/en
 # Parking sensor arduino project
 
 
-## Projekt za predmet vhodno-izhodne naprave, FRI 2021
+- [Tinkercad link](https://www.tinkercad.com/embed/dj0SsiJUyb4?editbtn=1)
 
-<iframe width="725" height="453" src="https://www.tinkercad.com/embed/dj0SsiJUyb4?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+## Circuit 
+
+
+
 
 
