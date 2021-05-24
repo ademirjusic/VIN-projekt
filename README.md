@@ -18,7 +18,7 @@ IDE can be downloaded for free at [https://arduino.cc](https://www.arduino.cc/en
 
 ## Circuit 
 
-[circuit](https://postimg.cc/ZCYfMCQj)
+![circuit](https://i.postimg.cc/wTLS3NQK/circuit.png)
 
 
 
