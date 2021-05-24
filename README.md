@@ -18,9 +18,7 @@ IDE can be downloaded for free at [https://arduino.cc](https://www.arduino.cc/en
 
 ## Circuit 
 
-<p align="center">
-	<img src="https://github.com/ademirjusic/VIN-projekt/tree/main/images/circuit.png" width="50%" />
-</p>
+[circuit](https://postimg.cc/ZCYfMCQj)
 
 
 
