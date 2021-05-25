@@ -28,7 +28,11 @@ IDE can be downloaded for free at [https://arduino.cc](https://www.arduino.cc/en
 
 - Based on the measured distance, one of the light-emitting diodes (LED) will light up, visually representing the distance (BLUE meaning far, YELLOW meaning close, ORANGE meaning closer and you can guess what RED does).
 
-- Following the visual repres
+- Following the LED representation, the distance is also printed to the user on a LCD display, which is connected to another arduino microcontroller, which is connected to the main arduino board via analog A4 and A5 pins.
+
+- The buzzer will also play a tone at 500hz for 100ms, but will be delayed (thus creating a parking-sensor-like sound) according to the distance 'zone' it measured from the obstacle.
+
+
 
 
 
