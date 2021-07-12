@@ -34,14 +34,14 @@ IDE can be downloaded for free at [https://arduino.cc](https://www.arduino.cc/en
 
 ## Component list
 
-2 x Arduino Uno R3
-4 x LED
-4 x 1000 ohm Resistor
-1 x Ultrasonic distance sensor
-1 x Piezo/buzzer
-1 x LCD 16 x 2
-1 x 220 ohm Resistor
-1 x 250 kilo ohm Potentiometer
+- 2 x Arduino Uno R3
+- 4 x LED
+- 4 x 1000 ohm Resistor
+- 1 x Ultrasonic distance sensor
+- 1 x Piezo/buzzer
+- 1 x LCD 16 x 2
+- 1 x 220 ohm Resistor
+- 1 x 250 kilo ohm Potentiometer
 
 
 
